@@ -5,13 +5,15 @@
 📚 Em constante aprendizado
 
 ### 🚀 Tecnologias que estou estudando
+- Java
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+
 - Git e GitHub  
 
 ### 🎯 Objetivos
-- Me tornar Desenvolvedor Web  
+- Me tornar Desenvolvedor Back-End  
 - Evoluir na área de Cybersecurity  
 
 ### 📫 Onde me encontrar
