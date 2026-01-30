@@ -13,7 +13,7 @@
 - Git e GitHub  
 
 ### 🎯 Objetivos
-- Me tornar Desenvolvedor Back-End  
+- Me tornar Desenvolvedor Full-stack 
 - Evoluir na área de Cybersecurity  
 
 ### 📫 Onde me encontrar
