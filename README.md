@@ -18,5 +18,5 @@
 
 ### 📫 Onde me encontrar
 - GitHub: https://github.com/marcoscleiton
-- Instagram:
-- LinkedIn: 
+- Instagram: https://instagram.com/marcoscleituuxd
+- LinkedIn: https://www.linkedin.com/in/marcos-cleiton-feitoza-054776222/
