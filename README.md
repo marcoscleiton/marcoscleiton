@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Marcos!
 
-<!--
-**marcoscleiton/marcoscleiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Support | Help Desk | Network Troubleshooting  
+🌍 Open to Remote Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a Systems Analysis and Development student focused on IT Support and Networking.
+
+I have hands-on experience with network configuration, troubleshooting, and system support.  
+Currently improving my skills to get my first remote job in IT Support.
+
+---
+
+## 🔧 Skills
+- Network fundamentals (IP, DNS, DHCP)
+- VLAN and DHCP configuration
+- Windows troubleshooting
+- Basic Linux commands
+- Network diagnostics (ping, ipconfig)
+
+---
+
+## 🛠️ Projects
+- Network Labs (VLAN, DHCP, connectivity testing)
+- Troubleshooting scenarios (real-world problems)
+
+---
+
+## 🎯 Goal
+Start my career as a remote IT Support / Help Desk Technician
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/marcos-cleiton-feitoza/
